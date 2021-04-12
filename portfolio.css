@@ -1,0 +1,28 @@
+h1 {
+    color: blue;
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+h2 {
+    
+    font-family: "Lucida Console", "Courier New", monospace;
+}
+
+
+h4{
+    color: blue;
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: medium;
+}
+
+h5{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: large;
+}
+
+p{
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: large;
+}
+
