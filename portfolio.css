@@ -1,17 +1,20 @@
 h1 {
-    color: blue;
+    color:orangered;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
+p {
+    color: honeydew;
+}
 
 h2 {
-    
+    color: honeydew;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
 
 h4{
-    color: blue;
+    color:orangered;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: medium;
 }
@@ -19,6 +22,7 @@ h4{
 h5{
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: large;
+    color:orangered;
 }
 
 p{
