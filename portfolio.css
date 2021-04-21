@@ -1,31 +1,30 @@
+
+/*gives all items with h1 a color and a font*/
 h1 {
     color:orangered;
     font-family: "Lucida Console", "Courier New", monospace;
 }
 
-p {
-    color: honeydew;
-}
-
+/*gives all items with h2 a color and a font*/
 h2 {
     color: honeydew;
     font-family: "Lucida Console", "Courier New", monospace;
 }
-
-
+/*gives all items with h4 a color, font and a font size*/
 h4{
     color:orangered;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: medium;
 }
-
+/*gives all items with h5 a color, font and a font size*/
 h5{
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: large;
     color:orangered;
 }
-
+/*gives all items with p a color, font and a font size*/
 p{
+    color: honeydew;
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: large;
 }
